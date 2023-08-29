@@ -5,17 +5,16 @@ A modular template that provides essential features to quickly get started on yo
 ## Features
 
 - ✔️ Prisma integration
-- ✔️ User authentication with password and social login via [@bg-dev/nuxt-auth](https://github.com/becem-gharbi/nuxt-auth) module
-- ✔️ File upload to S3 compatible file storage services via [@bg-dev/nuxt-s3](https://github.com/becem-gharbi/nuxt-s3) module
-- ✔️ Customizable UI layer based on Naive UI via [@bg-dev/nuxt-naiveui](https://github.com/becem-gharbi/nuxt-naiveui) module
-- ✔️ Firebase Cloud Messaging integration via [@bg-dev/nuxt-fcm](https://github.com/becem-gharbi/nuxt-fcm) module
+- ✔️ User authentication with password and social login
+- ✔️ File upload to S3 compatible file storage services
+- ✔️ Customizable UI layer based on Naive UI
+- ✔️ Firebase Cloud Messaging integration
 - ✔️ Tailwindcss integration via [@nuxtjs/tailwindcss](https://github.com/nuxt-modules/tailwindcss) module
-- ✔️ HTTP security via [nuxt-security](https://github.com/baroshem/nuxt-security) module
-- ✔️ Error monitoring via [bugsnag-js](https://github.com/bugsnag/bugsnag-js) module
+- ✔️ HTTP security via [nuxt-security]() module
+- ✔️ Error monitoring via [bugsnag-js]() module
 
 ## Setup
-1. Create new repository from this [template](https://github.com/becem-gharbi/nuxt-starter).
-1. Rename `.example.env` to `.env` and set the environment variables, check [docs](https://nuxt-starter-ready-docs.vercel.app/auth).
+1. Create new repository from this [template](https://github.com/Meguais/Nuxtjs-authentication-Social-and-Credential).
 2. Make sure to install the dependencies:
 
 ```bash
